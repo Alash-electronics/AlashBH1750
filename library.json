@@ -1,6 +1,6 @@
 {
   "name": "AlashBH1750",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy BH1750 (GY-302) light sensor library: lux, auto range 0.1-100000 lx, words, clear tips (ru/kk/en), no dependencies",
   "keywords": "BH1750, GY-302, light sensor, lux, illuminance, ambient light, I2C",
   "repository": {
